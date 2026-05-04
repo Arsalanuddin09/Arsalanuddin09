@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsalanuddiin</h1>
 <h3 align="center">
-Cybersecurity Enthusiast | Ethical Hacking Learner | Future Security Engineer | CEH Aspirant 🔐
+Cybersecurity Enthusiast | Security+ Knowledge Base | CEH Aspirant | Blue Team / SOC | Vulnerability Assessment | Ethical Hacking | Linux | Python | SIEM | Network Security 🔐
 </h3>
 
 - 🌱 I’m currently learning **Ethical Hacking, Wazuh SIEM, Docker, and Python Security Automation**
