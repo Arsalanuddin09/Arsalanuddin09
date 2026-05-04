@@ -1,6 +1,5 @@
-```html
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | Future Security Engineer 🔐</h3>
+<h1 align="center">Hi 👋, I'm Arsalanuddiin</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | Future Security Engineer | CEH Aspirant 🔐</h3>
 
 - 🌱 I’m currently learning **Ethical Hacking, Wazuh SIEM, Docker, and Python Security Automation**
 
@@ -10,13 +9,13 @@
 
 - 💬 Ask me about **Linux, Networking, Python, Docker, Wazuh, CEH concepts**
 
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **uddinarsalan74@gmail.com**
 
 - ⚡ Fun fact: **I break systems legally… then secure them better 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="[linkedin.com/in/arsalanuddin-416046247](https://www.linkedin.com/in/arsalanuddin-416046247/)" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 <a href="https://github.com/YOUR-USERNAME" target="blank">
@@ -78,4 +77,3 @@
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
 </p>
-```
